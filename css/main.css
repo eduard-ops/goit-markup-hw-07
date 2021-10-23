@@ -361,14 +361,14 @@ body {
   margin-bottom: 12px;
 }
 
-.form-field {
+.form__field {
   position: relative;
   display: flex;
   flex-direction: column;
   margin-bottom: 10px;
 }
 
-.form-field:nth-child(5) {
+.form__field:nth-child(5) {
   margin-bottom: 20px;
 }
 
@@ -688,7 +688,7 @@ body {
   margin-left: 30px;
 }
 
-.features-block {
+.features__block {
   display: flex;
   height: 120px;
   margin-bottom: 30px;
@@ -736,7 +736,7 @@ body {
   margin-left: 30px;
 }
 
-.works-wrapper {
+.works__wrapper {
   position: relative;
   display: flex;
   justify-content: center;
@@ -865,7 +865,7 @@ body {
   margin: 0 auto;
 }
 
-.contact-blok {
+.contacts__blok {
   margin-right: 70px;
 }
 
@@ -958,7 +958,7 @@ body {
   color: #ffffff;
 }
 
-.footer-form-container {
+.footer-form__container {
   display: flex;
 }
 
